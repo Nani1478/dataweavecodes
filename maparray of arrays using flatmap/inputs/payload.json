@@ -1,0 +1,29 @@
+[
+  {
+    "Book Store Id": [
+      "001275",
+      "001278",
+      "001279"
+    ],
+    "RegrestedDate": [
+      "2023-04-20T00:00:00+05:30",
+      "2023-04-19T00:00:00+05:31",
+      "2023-04-18T00:00:00+05:31"
+    ],
+      "StoreName":[
+        "SVPS store",
+        "UKStores",
+        "GV Stores"
+      ],
+      "StoreAddress":[
+        "Brodypet Main road",
+        "Lakshmipuram Main road",
+        "Ashok Nagar"
+      ],
+    "GroupTo": [
+      "5474573284",
+      "5474573285",
+      "5474573286"
+    ]
+  }
+]
