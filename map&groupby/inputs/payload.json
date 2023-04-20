@@ -1,0 +1,53 @@
+[
+  {
+    "id": "aLZ7x0000000001GAA",
+    "parentId": "",
+    "account": "test",
+    "myTeam": "aLZ7x000000009k02"
+  },
+  {
+    "id": "aLZ7x0000000001GAB",
+    "parentId": "aLZ7x0000000001GAA",
+    "account": "test",
+    "myTeam": "aLZ7x000000009k03"
+  },
+  {
+    "id": "aLZ7x0000000001GAC",
+    "parentId": "aLZ7x0000000001GAA",
+    "myTeam": "aLZ7x000000009k04"
+  },
+  {
+    "id": "aLZ7x0000000001GBB",
+    "parentId": "",
+    "account": "test",
+    "myTeam": "aLZ7x000000009k03"
+  },
+  {
+    "id": "aLZ7x0000000001GAB",
+    "parentId": "aLZ7x0000000001GBB",
+    "account": "test",
+    "myTeam": "aLZ7x000000009k03"
+  },
+  {
+    "id": "aLZ7x0000000001GAC",
+    "parentId": "aLZ7x0000000001GBB",
+    "myTeam": "aLZ7x000000009k04"
+  },
+  {
+    "id": "aLZ7x0000000001GCC",
+    "parentId": "",
+    "account": "test",
+    "myTeam": "aLZ7x000000009k04"
+  },
+  {
+    "id": "aLZ7x0000000001GAB",
+    "parentId": "aLZ7x0000000001GCC",
+    "account": "test",
+    "myTeam": "aLZ7x000000009k04"
+  },
+  {
+    "id": "aLZ7x0000000001GAC",
+    "parentId": "aLZ7x0000000001GCC",
+    "myTeam": "aLZ7x000000009k04"
+  }
+]
