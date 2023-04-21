@@ -1,0 +1,38 @@
+{
+  "data": {
+    "schema": "vU8q0DFGGgF3sTCogoUX-g",
+    "payload": {
+      "LastModifiedDate": "2020-04-06T18:41:25.000Z",
+      "Industry": "Communications",
+      "ChangeEventHeader": {
+        "commitNumber": 11723717298842,
+        "commitUser": "0058V00000CRfKPQA1",
+        "sequenceNumber": 1,
+        "entityName": "Lead",
+        "changeType": "UPDATE",
+        "changedFields": [
+          "Industry",
+          "LastModifiedDate"
+        ],
+        "changeOrigin": "com/salesforce/api/soap/57.0;client=SfdcInternalAPI/",
+        "transactionKey": "00013922-0b18-bf28-84a1-ec11a563163f",
+        "commitTimestamp": 1680806485000,
+        "recordIds": [
+          [
+            "00Q8V00001UikmEUAR"
+          ],
+          [
+            "00Q8V00001UikmEabc"
+          ],
+          [
+            "00Q8V00001UikmEUAE"
+          ]
+        ]
+      }
+    },
+    "event": {
+      "replayId": 3390162
+    }
+  },
+  "channel": "/data/LeadChangeEvent"
+}
