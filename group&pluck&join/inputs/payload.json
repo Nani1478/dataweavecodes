@@ -1,0 +1,42 @@
+[
+  {
+    "id": "594585.1",
+    "message": "Error converting data type nvarchar to int.",
+    "table": "Data"
+  },
+  {
+    "id": "594586.1",
+    "message": "type nvarchar to int1.",
+    "table": "Data"
+  },
+  {
+    "id": "533943.1",
+    "message": "Error converting data type nvarchar to int.",
+    "table": "Data"
+  },
+  {
+    "id": "533944.1",
+    "message": "type nvarchar to int1.",
+    "table": "Data"
+  },
+  {
+    "id": "594602.1",
+    "message": "Error converting data type nvarchar to int.",
+    "table": "Data"
+  },
+  {
+    "id": "594603.1",
+    "message": "type nvarchar to int1.",
+    "table": "Data"
+  },
+  {
+    "id": "765114.1",
+    "message": "Error converting data type nvarchar to int.",
+    "table": "Data"
+  },
+  {
+    "id": "765115.1",
+    "message": "type nvarchar to int1.",
+    "table": "Data"
+  }
+]
