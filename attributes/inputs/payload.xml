@@ -1,0 +1,33 @@
+<Document>
+ 
+<Field name="xIPM_APP_1_9:isSetDefault">1</Field>
+ 
+<Field name="IdcService">B</Field>
+ 
+<Field name="dSecurityGroup">Checkcrt</Field>
+ 
+<Field name="xIPM_APP_1_6:rule">TestField0</Field>
+ 
+<Field name="dpTriggerField">TestField1</Field>
+ 
+<Field name="xPartitionId:isSetDefault">1</Field>
+ 
+<Field name="xFndVirusScanDate">5/02/23 11:34 PM</Field>
+ 
+<Field name="dDocCreator">TestUser</Field>
+ 
+<Field name="xIPMSYS_STATUS:isSetDefault">0</Field>
+ 
+<ResultSet name="UserAttribInfo">
+ 
+<Row>
+ 
+<Field name="dUserName">user</Field>
+ 
+<Field name="AttributeInfo">Name</Field>
+ 
+</Row>
+ 
+</ResultSet>
+ 
+</Document>
