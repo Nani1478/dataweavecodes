@@ -1,0 +1,71 @@
+ [{
+
+  "Report Key": "165789",
+
+  "Entry Key": "1233169",
+
+  "Car Log Entry Key": "42761",
+
+  "Employee Initials": "MJIB",
+
+  "Employee Country": "UNITED STATES",
+
+  "Policy": "*CGC Global Expense Policy",
+
+  "Company": "CRMC",
+
+  "Cost Center": "CRMC EQUITY PORTFOLIO MANAGEMENT",
+
+  "Transaction Date": "Feb 22, 2022 12:00:00 AM",
+
+  "Spend Category": "Personal Car - Mileage Reimbursement",
+
+  "Transaction Type": "Regular",
+
+  "Expense Type": "Personal Auto Miles",
+
+  "From Location": "7 Hotaling Ct, Kentfield, CA 94904, USA",
+
+  "To Location": "3060 Olsen Dr Ste 50, San Jose, CA 95128, USA",
+
+  "Business Distance": "148",
+
+  "Distance Unit": "Miles"
+
+ },
+
+ {
+
+  "Report Key": "167842",
+
+  "Entry Key": "1248315",
+
+  "Car Log Entry Key": "43707",
+
+  "Employee Initials": "RJOB",
+
+  "Employee Country": "CANADA",
+
+  "Policy": "*CGC Global Expense Policy",
+
+  "Company": "CIAM",
+
+  "Cost Center": "CIAM RETAIL SALES",
+
+  "Transaction Date": "Mar 9, 2022 12:00:00 AM",
+
+  "Spend Category": "Personal Car - Mileage Reimbursement",
+
+  "Transaction Type": "Regular",
+
+  "Expense Type": "Personal Auto Miles",
+
+  "From Location": "8 Sunset Dr, Cobourg, ON K9A 4J7, Canada",
+
+  "To Location": "125 Moatfield Dr, North York, ON M3B 3L6, Canada",
+
+  "Business Distance": "208",
+
+  "Distance Unit": "Kilometers"
+
+ }]
