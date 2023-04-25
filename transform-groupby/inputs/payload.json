@@ -1,0 +1,35 @@
+[{
+
+"User_Name": "Test",
+
+"Organization": [{
+
+"Organization": "100-US",
+
+"Role_Name": "Cost Center Designate"
+
+}
+
+]}, {
+
+"User_Name": "Test-1",
+
+"Organization": [{
+
+"Organization": "100-US",
+
+"Role_Name": "Cost Center Manager"
+
+}, {
+
+"Organization": "342-UK",
+
+"Role_Name": "Cost Center Manager"
+
+}
+
+]
+
+}
+
+]
