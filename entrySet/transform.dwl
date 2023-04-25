@@ -6,7 +6,7 @@ output application/java
 
   // since i/p is a object and have to work on index so i am using pluck, since index is not dynamic in this case so i used commen method. assigned to 0 followed by 1 and so on//
 
- payload pluck ((value, key, index) -> { // if we use mapObject it won't give desired o/p so we can go with pluck//
+  payload pluck ((value, key, index) -> { // if we use mapObject it won't give desired o/p so we can go with pluck//
  "0":{
      key: "name",
      value: key
@@ -22,7 +22,7 @@ output application/java
      //entryset: Returns an array of key-value pairs that describe the key, value, and any attributes in the input object.//
 
 
-/*(entrySet(payload) map ($) - "attributes") map ((item, index) ->
+ /*(entrySet(payload) map ($) - "attributes") map ((item, index) ->
 
    // entrySet gives a array as o/p  which contains k-v-attributes so we dont need attributs so we subtract from o/p then using mapping we can get desired o/p//
 {
@@ -35,4 +35,6 @@ output application/java
         "key" : "value",
         "value" : item.value
         }
-    }   */
+    }   
+
+ )*/
