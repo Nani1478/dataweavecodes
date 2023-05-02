@@ -1,0 +1,27 @@
+[{
+ 
+"Name": "Raul",
+ 
+"Apellidos": "Martinez",
+ 
+"CASAS":
+ 
+[{
+ 
+"Calle": "Street Code1",
+ 
+"FreeGood": null
+ 
+},
+ 
+{
+ 
+"Calle": "Street Code2",
+ 
+"FreeGood": 2
+ 
+}
+ 
+]
+ 
+}]
