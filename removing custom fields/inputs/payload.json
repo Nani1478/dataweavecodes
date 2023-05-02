@@ -1,0 +1,133 @@
+{
+
+"Correlationid": "string",
+
+"BundleProductCode": "12345",
+
+"ConfigitConfigurationId": "string",
+
+"Action": "save",
+
+"BundleOption": [
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+},
+
+{
+
+"OptionProductCode": "string",
+
+"Qty": 1
+
+}
+
+],
+
+"Code": "000",
+
+"Message": "Success"
+
+}
