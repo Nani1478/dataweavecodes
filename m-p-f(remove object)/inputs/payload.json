@@ -1,0 +1,38 @@
+{
+  "header": {
+    "headerLine1": "abc",
+    "headerLine2": "def",
+    "headerLine3": "123"
+  },
+  "data": {
+    "orders": [
+      {
+        "orderline1": "ol1",
+        "orderline2": "ol2",
+        "orderline3": "ol3",
+        "billTo": {
+          "name": "test",
+          "address": "adr1"
+        },
+        "shipTo": {
+          "name": "test2",
+          "address": "adr2"
+        },
+        "orderItems": [
+          {
+            "productCode": "prod-FREE-1",
+            "productName": "free product"
+          },
+          {
+            "productCode": "prod-1",
+            "productName": " product 1"
+          },
+          {
+            "productCode": "prod-2",
+            "productName": " product 2"
+          }
+        ]
+      }
+    ]
+  }
+}
