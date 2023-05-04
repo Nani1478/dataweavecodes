@@ -1,0 +1,20 @@
+[
+  {
+    "TENANTUNIQUENAME": "uniqueTenantID1",
+    "LAST_UPDATE": 1682812800000,
+    "LAST_UPDATE_READABLE": "2023/04/30",
+    "DaysBetween": 3
+  },
+  {
+    "TENANTUNIQUENAME": "uniqueTenantID2",
+    "LAST_UPDATE": 1682899200000,
+    "LAST_UPDATE_READABLE": "2023/05/01",
+    "DaysBetween": 2
+  },
+  {
+    "TENANTUNIQUENAME": "uniqueTenantID3",
+    "LAST_UPDATE": 1682985600000,
+    "LAST_UPDATE_READABLE": "2023/05/02",
+    "DaysBetween": 1
+  }
+]
