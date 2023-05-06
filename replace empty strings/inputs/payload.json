@@ -1,0 +1,77 @@
+[
+  {
+    "product": {
+      "name": "PRIVATE",
+      "Product_Sum_Of_Premiums": 246.9,
+      "insuredItems": [
+        {
+          "type": "mobility",
+          "Premium_wo_taxes": 123.45,
+          "TaxAmount": 12.45,
+          "TotalAmount": 135.9,
+          "insuredItems": {
+            "policyAssetId": "0YW3H0000004DsEWAU"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "product": {
+      "name": "PRIVATE",
+      "Product_Sum_Of_Premiums": 246.9,
+      "insuredItems": [
+        "", 
+        "",
+        "",
+        {
+          "type": "mobility",
+          "Premium_wo_taxes": 123.45,
+          "TaxAmount": 12.45,
+          "TotalAmount": 135.9,
+          "insuredItems": {
+            "policyAssetId": "0YW3H0000004DxtWAE"
+          }
+        },
+        {
+          "type": "household",
+          "Premium_wo_taxes": 123.45,
+          "TaxAmount": 12.45,
+          "TotalAmount": 135.9,
+          "insuredItems": {
+            "policyAssetId": "0YW3H0000004DxsWAE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "product": {
+      "name": "PRIVATE",
+      "Product_Sum_Of_Premiums": 246.9,
+      "insuredItems": [
+        "", 
+        "", 
+        "", 
+        {
+          "type": "mobility",
+          "Premium_wo_taxes": 123.45,
+          "TaxAmount": 12.45,
+          "TotalAmount": 135.9,
+          "insuredItems": {
+            "policyAssetId": "0YW3H0000004DxtWAE"
+          }
+        },
+        {
+          "type": "household",
+          "Premium_wo_taxes": 123.45,
+          "TaxAmount": 12.45,
+          "TotalAmount": 135.9,
+          "insuredItems": {
+            "policyAssetId": "0YW3H0000004DxsWAE"
+          }
+        }
+      ]
+    }
+  }
+]
