@@ -1,0 +1,43 @@
+[
+  {
+    "Id": "0YW3H0000004DsEWAU",
+    "coverage": {
+      "type": "AWP",
+      "Deductible": true,
+      "Premium_wo_taxes": 123.45,
+      "TaxAmount": 12.45,
+      "TotalAmount": 135.9,
+      "test": { 
+        "covDeductibles": false
+      }
+    }
+  },
+  {
+    "Id": "0YW3H0000004DsEWAU",
+    "coverage": {
+      "type": "C",
+      "Deductible": true,
+      "Premium_wo_taxes": 123.45,
+      "TaxAmount": 12.45,
+      "TotalAmount": 135.9,
+      "test": { 
+        "class": "C",
+        "purpose": "test"
+      }
+    }
+  },
+  {
+    "Id": "0YW3H0000004DxsWAE",
+    "coverage": {
+      "type": "EWEB",
+      "Deductible": true,
+      "Premium_wo_taxes": 123.45,
+      "TaxAmount": 12.45,
+      "TotalAmount": 135.9,
+      "test": { 
+      "class": "C",
+      "purpose": "test"
+      }
+    }
+  }
+  ]
