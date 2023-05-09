@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "0YW3H0000004EksWAE",
+    "sailSurface": 0,
+    "vehiclePk": 0,
+    "loadingCapacity": 0
+  },
+  {
+    "Id": "0YW3H0000004EllWAE",
+    "flightWeight": 0,
+    "vehiclePlaces": 0,
+    "sailSurface": 0,
+    "vehiclePk": 0,
+    "loadingCapacity": 0,
+    "boatLength": true
+  },
+  {
+    "Id": "0YW3H0000004DsEWAU",
+    "sailSurface": 0,
+    "vehiclePk": 0,
+    "loadingCapacity": 0
+  }
+]
