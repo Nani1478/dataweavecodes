@@ -9,3 +9,8 @@ output application/json skipNullOn="everywhere"
                   // second method//
     // here we are simpely eliminating entire null values by using skipNullon everywhere//
 payload map ((item, index) -> if((item..) contains(null)) null else item)
+
+                 // third method//
+        // by using filter operation//
+        /*(payload map
+              ($)) filter ! ($.. contains null)*/
