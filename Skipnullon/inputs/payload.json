@@ -1,0 +1,80 @@
+[
+    {
+        "DocCode": "FirstReminder",
+        "DocDate": "2023-02-27",
+        "MonthlyBatch": false,
+        "DuePremium": "102.0",
+        "TotalDuePremium": "102.0",
+        "ConcernedRenewalDate": "2023-03-21",
+        "ContractNumber": "14001139",
+        "StructuredPaymentRef": "+++090/9337/55493+++",
+        "Customer": {
+            "Address": {
+                "PostCode": "1000",
+                "City": "Brussels",
+                "StreetNumber": "11",
+                "BoxNumber": "123",
+                "StreetName": "Wall Street"
+            },
+            "Type": "Independent",
+            "BCE": "0830430559",
+            "NN": "77.06.25-325.02",
+            "BirthDate": "2004-02-11",
+            "Title": "Dutch",
+            "LastName": " Account",
+            "FirstName": "v"
+        },
+        "Broker": {
+            "BrokerNumber": "98765",
+            "Name": "Test Broker1 Account",
+            "Phone": "25434343",
+            "Address": {
+                "PostCode": "10001",
+                "City": "test city",
+                "StreetNumber": "test street",
+                "BoxNumber": "203",
+                "StreetName": "test adadress"
+            },
+            "Email": "testbroker"
+        }
+    },
+    {
+        "DocCode": "FirstReminder",
+        "DocDate": "2023-02-27",
+        "MonthlyBatch": false,
+        "DuePremium": "35.56",
+        "TotalDuePremium": "35.56",
+        "ConcernedRenewalDate": "2023-03-21",
+        "ContractNumber": "14001139",
+        "StructuredPaymentRef": "+++090/9337/55493+++",
+        "Customer": {
+            "Address": {
+                "PostCode": "1000",
+                "City": "Belgium",
+                "StreetNumber": "cxyz",
+                "BoxNumber": "456",
+                "StreetName": "Zevantum"
+            },
+            "Type": "Independent",
+            "BCE": 56784356,
+            "NN": null,
+            "BirthDate": null,
+            "Title": null,
+            "LastName": null,
+            "FirstName": null
+        },
+        "Broker": {
+            "BrokerNumber": "98765",
+            "Name": "test broker integration",
+            "Phone": "234567867",
+            "Address": {
+                "PostCode": "1000",
+                "City": "Belgium",
+                "StreetNumber": "cxyz",
+                "BoxNumber": "456",
+                "StreetName": "Zevantum"
+            },
+            "Email": "testbroker"
+        }
+    }
+]
