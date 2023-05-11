@@ -1,0 +1,69 @@
+[
+  {
+    "data": {
+      "Claims": null,
+      "RecordType": {
+        "Id": null,
+        "type": "RecordType",
+        "DeveloperName": "Business"
+      },
+      "Contacts": null,
+      "FirstName": "firstname",
+      "PersonBirthdate": null,
+      "Id": "0013H00000VCKwvQAH",
+      "LastName": "adsad",
+      "type": "Account",
+      "Contracts": null,
+      "AccountNumber": "dsad",
+      "Name": "firstname adsad"
+    },
+    "hasContractClaimOrQuote": false
+  },
+  {
+    "data": {
+      "Claims": null,
+      "RecordType": {
+        "Id": null,
+        "type": "RecordType",
+        "DeveloperName": "Business"
+      },
+      "Contacts": null,
+      "FirstName": null,
+      "PersonBirthdate": null,
+      "Id": "0013H00000Xgn8SQAR",
+      "LastName": null,
+      "type": "Account",
+      "Contracts": [
+        {
+          "Status": "Draft",
+          "IsDeleted": "false",
+          "Id": "8003H000000tlzMQAQ",
+          "type": "Contract",
+          "Name": null
+        }
+      ],
+      "AccountNumber": "000378",
+      "Name": "Test Auto-Number Account 1"
+    },
+    "hasContractClaimOrQuote": true
+  },
+  {
+    "data": {
+      "Claims": null,
+      "RecordType": {
+        "Id": null,
+        "type": "RecordType",
+        "DeveloperName": "Business"
+      },
+      "Contacts": null,
+      "FirstName": null,
+      "PersonBirthdate": null,
+      "Id": "0013H00000XhCHxQAN",
+      "LastName": null,
+      "type": "Account",
+      "Contracts": null,
+      "AccountNumber": "000379",
+      "Name": "Deloitte"
+    },
+    "hasContractClaimOrQuote": false
+  }]
