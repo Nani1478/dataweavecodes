@@ -1,0 +1,22 @@
+[
+    {
+      "policyAssetId": "0YW3H0000004DzSWAU",
+      "Attributes": {
+        "licensePlateStatus": "new",
+        "vehicleUsage": "Privé",
+        "vehicleLicNum": "123-ABC-2",
+        "vehicleType": "Vélomoteur (max 45 km/h)",
+        "radiationDate": "2024-02-14"
+      }
+    },
+    {
+      "policyAssetId": "0YW3H0000004DzSWAU",
+      "Attributes": {
+        "licensePlateStatus": "expired",
+        "vehicleUsage": "Privé",
+        "vehicleLicNum": "123-ABC-2",
+        "vehicleType": "Vélomoteur (max 45 km/h)",
+        "radiationDate": "2024-02-14"
+      }
+    }
+  ]
