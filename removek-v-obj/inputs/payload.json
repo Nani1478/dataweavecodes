@@ -1,0 +1,11 @@
+{
+  "pc-disable-1": "false",
+  "pc-disable-2": "false",
+  "pc-disable-3": "false",
+  "host": "localhost",
+  "connection": "live",
+  "tc-disable-1": "false",
+  "tc-disable-2": "false",
+  "tc-disable-3": "false",
+  "postman": "true"
+}
