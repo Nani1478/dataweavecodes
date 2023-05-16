@@ -1,0 +1,86 @@
+{
+  "Document": [
+    {
+      "DocCode": "firstReminder",
+      "DocDate": "2023-02-27",
+      "MonthlyBatch": false,
+      "DuePremium": null,
+      "TotalDuePremium": "35.56",
+      "ConcernedRenewalDate": "2023-03-21",
+      "ContractNumber": "14001139",
+      "StructuredPaymentRef": "+++090/9337/55493+++",
+      "Customer": {
+        "Address": {
+          "PostCode": "1000",
+          "City": "Belgium",
+          "StreetNumber": "cxyz",
+          "BoxNumber": null,
+          "StreetName": "cxyz"
+        },
+        "Type": "Legal",
+        "BCE": null,
+        "NN": null,
+        "BirthDate": null,
+        "Title": null,
+        "LastName": null,
+        "FirstName": null
+      },
+      "Broker": {
+        "BrokerNumber": "12345566",
+        "Name": "test",
+        "Phone": null,
+        "Address": {
+          "PostCode": null,
+          "City": null,
+          "StreetNumber": null,
+          "BoxNumber": null,
+          "StreetName": null
+        },
+        "Email": null,
+        "FSMA": null,
+        "BrokerReference": "ABC_REF_BROKER"
+      }
+    },
+    {
+      "DocCode": "firstReminder",
+      "DocDate": "2023-02-27",
+      "MonthlyBatch": false,
+      "DuePremium": null,
+      "TotalDuePremium": "120.0",
+      "ConcernedRenewalDate": "2023-03-21",
+      "ContractNumber": "14001139",
+      "StructuredPaymentRef": "test payment",
+      "Customer": {
+        "Address": {
+          "PostCode": "1000",
+          "City": "Brussels",
+          "StreetNumber": "11",
+          "BoxNumber": null,
+          "StreetName": "Wall Street"
+        },
+        "Type": "Natural",
+        "BCE": "0830430559",
+        "NN": "77.06.25-325.02",
+        "BirthDate": "2004-02-11",
+        "Title": "Vincent Dutch",
+        "LastName": "Dutch Account",
+        "FirstName": "Vincent"
+      },
+      "Broker": {
+        "BrokerNumber": "12345566",
+        "Name": "Account",
+        "Phone": null,
+        "Address": {
+          "PostCode": null,
+          "City": null,
+          "StreetNumber": null,
+          "BoxNumber": null,
+          "StreetName": null
+        },
+        "Email": null,
+        "FSMA": null,
+        "BrokerReference": "ABC_REF_BROKER"
+      }
+    }
+  ]
+}
