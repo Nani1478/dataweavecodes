@@ -1,0 +1,17 @@
+[
+  {
+    "id": "111",
+    "consentFlag": "",
+    "type": "multiselect"
+  },
+  {
+    "id": "222",
+    "consentFlag": "true",
+    "type": "select"
+  },
+  {
+    "id": "333",
+    "consentFlag": "",
+    "type": "text"
+  }
+]
