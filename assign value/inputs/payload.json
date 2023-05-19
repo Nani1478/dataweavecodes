@@ -1,0 +1,23 @@
+[
+  {
+    "Location": "EnterpriseLocation.AbbvName",
+    "kafka Attribute Cluster": "",
+    "Kafka Attribute Name": "AbbreviationName"
+  },
+    {
+    "Location": null,
+    "kafka Attribute Cluster": "",
+    "Kafka Attribute Name": "AbbreviationName"
+  },
+    {
+    "Location": "EnterpriseLocation.AbbvName",
+    "kafka Attribute Cluster": "",
+    "Kafka Attribute Name": "AbbreviationName"
+  },
+    {
+    "Location": "EnterpriseLocation.AbbvName",
+    "kafka Attribute Cluster": null,
+    "Kafka Attribute Name": "AbbreviationName"
+  }
+]
+ 
