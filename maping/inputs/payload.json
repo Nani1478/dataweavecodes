@@ -1,0 +1,19 @@
+[
+  {
+    "territory": [
+      "FL - Delray Beach",
+      "FL - Jupiter",
+      "FL - Vero Beach",
+      "FL - Deerfield"
+    ],
+    "employee": "John Smith"
+  },
+  {
+    "territory": [
+      "CA - Burbank",
+      "CA - Lomita",
+      "CA - Monrovia"
+    ],
+    "employee": "Jane Taylor"
+  }
+]
