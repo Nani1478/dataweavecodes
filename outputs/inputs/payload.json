@@ -1,0 +1,35 @@
+{
+  "FieldHeader": {
+    "header": {
+      "headerSegment": {
+        "Address": "String"
+      },
+      "Segment2": {
+        "Timestamp": "2017-09-0118: 12: 11.1234CST"
+      }
+    },
+    "body": {
+      "ResponsePayload": {
+        "impFields": {
+          "impHeaders": {
+            "Id": "String"
+          },
+          "finks": [
+            
+          ],
+          "version": 2,
+          "outputs": [
+            {
+              "name": "CountyCode",
+              "value": 1
+            },
+            {
+              "name": "ZipCode",
+              "value": 2
+            }
+          ]
+        }
+      }
+    }
+  }
+}
