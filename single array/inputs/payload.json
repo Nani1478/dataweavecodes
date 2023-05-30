@@ -1,0 +1,14 @@
+[
+  {
+    "EXTERNAL_ID": "1",
+    "MATERIAL_EXTERNAL_ID": "abc"
+  },
+  {
+    "EXTERNAL_ID": "2",
+    "MATERIAL_EXTERNAL_ID": "xyz"
+  },
+  {
+    "EXTERNAL_ID": "3",
+    "MATERIAL_EXTERNAL_ID": ""
+  }
+]
