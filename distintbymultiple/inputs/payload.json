@@ -1,0 +1,22 @@
+[
+  {
+    "oderId": "123456",
+    "componentId": "11114326",
+    "operation": "remove"
+  },
+  {
+    "oderId": "123456",
+    "componentId": "11114326",
+    "operation": "remove"
+  },
+  {
+    "oderId": "9987456",
+    "componentId": "44567889",
+    "operation": "add"
+  },
+  {
+    "oderId": "123456",
+    "componentId": "11114326",
+    "operation": "remove"
+  }
+]
