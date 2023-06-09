@@ -19,3 +19,12 @@ payload mapObject ((value, key, index) -> (key): value mapObject ((v, k, i) ->
 
 
  ) )
+ 
+ 
+ // payload mapObject ((value, key, index) ->(key): (value mapObject ((value, key, index) ->(key): value ++ {
+//     ('security': 'authorized') if( value.password ~= 'pass'),
+//      ('security': 'unauthorized') if (value.password ~= 'fail'),
+//      ('msg': null) if(value.password != 'pass' and value.password != 'fail')
+// }) ))
+ 
+ 
