@@ -1,4 +1,5 @@
 %dw 2.0
+import * from dw::core::Strings
 output application/json
 ---
 // here the requirement is to  we have a string containing a non json object we need to formulate it as a meening full json object containing key value pairs//
