@@ -1,0 +1,26 @@
+[
+   {
+       "firstName" : "John",
+       "lastName" : "Doe",
+       "jobTitle" : "Engineer",
+       "department": "Technology"
+   },
+   {
+       "firstName" : "Smith",
+       "lastName" : "Doe",
+       "jobTitle" : "Engineer",
+       "department": "Technology"
+   },
+   {
+       "firstName" : "Kelly",
+       "lastName" : "Doe",
+       "jobTitle" : "Analyst",
+       "department": "Operations"
+   },
+   {
+       "firstName" : "Keith",
+       "lastName" : "Doe",
+       "jobTitle" : "Analyst",
+       "department": "Finance"
+   }
+]
