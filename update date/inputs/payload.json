@@ -1,0 +1,27 @@
+{
+  "event": {
+    "dateTime": "2022-12-06T18:48:33.4674167Z",
+    "statusHistory": [
+      {
+        "eventStatus": "Answered",
+        "dateTime": "2022-12-06T18:48:33.4674167Z"
+      },
+      {
+        "eventStatus": "Disconnected",
+        "dateTime": "2022-12-06T18:49:40.4674167Z"
+      }
+    ]
+  },
+  "details": {
+    "custom": [
+      {
+        "substitutions": [
+          {
+            "value": "2022-12-06T18:48:33.4674167Z",
+            "key": "lastActionDate"
+          }
+        ]
+      }
+    ]
+  }
+}
