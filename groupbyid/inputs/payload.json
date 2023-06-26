@@ -1,0 +1,34 @@
+{
+  "000010": {
+    "articleId": "0000195967",
+    "orderQuantity": "5.000"
+  },
+  "000020": {
+    "articleId": "0000362653",
+    "orderQuantity": "1.000"
+  },
+  "000030": {
+    "articleId": "0000362653",
+    "orderQuantity": "1.000"
+  },
+  "000040": {
+    "articleId": "0000307912",
+    "orderQuantity": "6.000"
+  },
+  "000010": {
+    "netPrice": "5.000",
+    "priceUnit": "5.000"
+  },
+  "000020": {
+    "netPrice": "5.000",
+    "priceUnit": "5.000"
+  },
+  "000030": {
+    "netPrice": "5.000",
+    "priceUnit": "5.000"
+  },
+  "000040": {
+    "netPrice": "5.000",
+    "priceUnit": "5.000"
+  }
+}
