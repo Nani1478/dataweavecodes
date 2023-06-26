@@ -1,0 +1,17 @@
+[
+  {
+    "resource": "SMPRecord",
+    "destinationType": "EquipmentAPI",
+    "ClientId": "1111-TEST"
+  },
+  {
+    "resource": "price",
+    "destinationType": "SystemAPI",
+    "ClientId": "2222-TEST"
+  },
+  {
+    "resource": "cases",
+    "destinationType": "SystemAPI",
+    "ClientId": "1111-TEST"
+  }
+]
