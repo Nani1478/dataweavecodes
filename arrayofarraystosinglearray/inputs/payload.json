@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "train": "rajdhani",
+      "price": "2000"
+    },
+    {
+      "train": "gatiman",
+      "price": "9000"
+    }
+  ],
+  [
+    {
+      "hotel": "k2Inn",
+      "price": "2400"
+    },
+    {
+      "hotel": "hyatt",
+      "price": "9400"
+    }
+  ]
+]
