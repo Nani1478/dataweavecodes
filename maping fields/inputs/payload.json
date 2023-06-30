@@ -1,0 +1,40 @@
+{
+  "StudentList": {
+    "StudentInfo": {
+      "StudentPrimaryAddress": {
+        "AddressLineOne": "abc",
+        "AddressLineTwo": "xyz",
+        "CityName": "BHOPAL",
+        "State": "MP"
+      },
+      "StudentMailingAddress": {
+        "AddressLineOne": "hhm",
+        "AddressLineTwo": "jkl",
+        "CityName": "BHOPAL",
+        "State": "MP"
+      },
+      "StudentID": "1234567",
+      "FirstName": "Peeyush",
+      "LastName": "Nem",
+      "MiddleName": "Kumar"
+    },
+    "StudentInfo": {
+      "StudentPrimaryAddress": {
+        "AddressLineOne": "bbbb",
+        "AddressLineTwo": "ccc",
+        "CityName": "Jabalpur",
+        "State": "MP"
+      },
+      "StudentMailingAddress": {
+        "AddressLineOne": "lll",
+        "AddressLineTwo": "qwwerr",
+        "CityName": "BHOPAL",
+        "State": "MP"
+      },
+      "StudentID": "33445566",
+      "FirstName": "Peeyush",
+      "LastName": "Nem",
+      "MiddleName": "Kumar"
+    }
+  }
+}
