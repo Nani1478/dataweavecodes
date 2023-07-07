@@ -1,0 +1,43 @@
+{
+	"metricHeaders": [{
+		"name": "averageSessionDuration",
+		"type": "TYPE_SECONDS"
+	}, {
+		"name": "bounceRate",
+		"type": "TYPE_FLOAT"
+	}, {
+		"name": "newUsers",
+		"type": "TYPE_INTEGER"
+	}, {
+		"name": "screenPageViews",
+		"type": "TYPE_INTEGER"
+	}, {
+		"name": "sessions",
+		"type": "TYPE_INTEGER"
+	}, {
+		"name": "totalUsers",
+		"type": "TYPE_INTEGER"
+	}],
+	"rows": [{
+		"metricValues": [{
+			"value": "262.06226843900566"
+		}, {
+			"value": "0.39454126089185032"
+		}, {
+			"value": "5967"
+		}, {
+			"value": "63346"
+		}, {
+			"value": "15608"
+		}, {
+			"value": "11821"
+		}]
+	}],
+	"rowCount": 1,
+	"metadata": {
+		"currencyCode": "NZD",
+		"timeZone": "Pacific/Auckland",
+		"subjectToThresholding": true
+	},
+	"kind": "analyticsData#runReport"
+}
