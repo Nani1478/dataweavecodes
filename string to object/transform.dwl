@@ -8,6 +8,6 @@ output application/json
 //{(payload.message replace  "{" with "" replace "}" with "" splitBy  "," map ((item, index) -> item splitBy  "=") map {
     //($[0]):$[1]
 //})} // here i have used [0] and [1] because in array we are getting two values so we need to transform them as key value pairs thats the reson i used those//
-{(payload.data substringAfterLast "{" substringBefore "}" splitBy  "," map ((item, index) -> item splitBy  "=" ) map {
+{(payload.message substringAfterLast "{" substringBefore "}" splitBy  "," map ((item, index) -> item splitBy  "=" ) map {
     ($[0]): $[1]
 })}
